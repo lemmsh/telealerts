@@ -1,7 +1,5 @@
 # Telealerts
 
-## Purpose
-
 Telealerts is a simple tool designed to send alerts from your Linux boxes directly to your Telegram groups. Whether you're an engineer, self-hoster, or indie hacker, Telealerts provides the simplest way to keep you and your mates informed about the troubles in your services. It's just an executable with the only dependency on the glibc version, friendly to bash pipelining
 
 ## Usage
